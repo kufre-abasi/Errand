@@ -7,8 +7,8 @@ const loggedInUser = computed(() => deskree.loggedInUser.value);
   <div class="navbar bg-base-100 shadow-md">
     <div class="flex-1">
       <NuxtLink class="btn btn-ghost normal-case text-xl" to="/">{{
-        Errand
-      }}</NuxtLink>
+        siteName
+      }} Errand</NuxtLink>
     </div>
     <!-- Right Side -->
     <div class="flex-none">
