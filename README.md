@@ -1,6 +1,6 @@
-<!-- # Vue.js Forge Episode 2 Codebase -->
+# Vue.js Forge Episode 2 Codebase
 
-<!-- ![Vue.js Forge Episode 2](https://vuejsforge.com/images/logo-vuejs-forge.svg) -->
+![Vue.js Forge Episode 2](https://vuejsforge.com/images/logo-vuejs-forge.svg)
 
 This repo includes:
 
